@@ -2,9 +2,9 @@
 
 Save the JustForFans photos and videos you already pay for, **at full quality**, processed entirely on your own device.
 
-This is the JustForFans documentation for [**Fanripper**](https://fanripper.com) — a browser extension that also supports OnlyFans, Fansly and privacy.com.br.
+This is the JustForFans documentation for [**Fanripper**](https://fanripper.com) — a browser extension and an iPhone & Android app that also supports OnlyFans, Fansly and privacy.com.br.
 
-⬇️ **[Install](https://install.fanripper.com)** &nbsp;·&nbsp; 🌐 **[JustForFans downloader page](https://fanripper.com/justforfans-downloader)** &nbsp;·&nbsp; 💬 **[Telegram](https://t.me/fanripper)**
+⬇️ **[Install](https://install.fanripper.com)** &nbsp;·&nbsp; 📱 **[iPhone & Android app](https://fanripper.com/app)** &nbsp;·&nbsp; 🌐 **[JustForFans downloader page](https://fanripper.com/justforfans-downloader)** &nbsp;·&nbsp; 💬 **[Telegram](https://t.me/fanripper)**
 
 ---
 
@@ -48,7 +48,17 @@ JustForFans serves video from regional CDNs. A downloader that only recognises a
 
 If you still hit region-specific failures, [Telegram](https://t.me/fanripper) is the fastest route to a fix.
 
-## Install (about 60 seconds)
+## On your phone (iPhone & Android)
+
+Fanripper also runs as an app on your phone. JustForFans video saves at full quality on the phone as well, decrypted on the phone itself, with the Max or Lifetime plan.
+
+1. Install **Expo Go** (free) from the [App Store](https://apps.apple.com/app/expo-go/id982107779) or [Google Play](https://play.google.com/store/apps/details?id=host.exp.exponent).
+2. Open **[fanripper.com/app](https://fanripper.com/app)** on your phone and tap **Open Fanripper in Expo Go** — or scan the code there with your phone's camera.
+3. Sign in with your Fanripper email: same account and plan as the extension.
+
+Your phone gets its own device slot, so it never signs out your computer. Downloads run while the app is open, and updates arrive on their own. Guides: [iPhone](https://fanripper.com/blog/onlyfans-downloader-mac-iphone) · [Android](https://fanripper.com/blog/download-onlyfans-videos-android).
+
+## Install the extension (about 60 seconds)
 
 1. Download `fanripper.zip` from [install.fanripper.com](https://install.fanripper.com).
 2. Unzip it somewhere permanent.
