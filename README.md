@@ -2,7 +2,7 @@
 
 Save the JustForFans photos and videos you already pay for, **at full quality**, processed entirely on your own device.
 
-This is the JustForFans documentation for [**Fanripper**](https://fanripper.com) — a browser extension and an iPhone & Android app that also supports OnlyFans, Fansly and privacy.com.br.
+This is the JustForFans documentation for [**Fanripper**](https://fanripper.com) — a browser extension and an iPhone & Android app that also supports OnlyFans, Fansly, privacy.com.br and Fanfix.
 
 ⬇️ **[Install](https://install.fanripper.com)** &nbsp;·&nbsp; 📱 **[iPhone & Android app](https://fanripper.com/app)** &nbsp;·&nbsp; 🌐 **[JustForFans downloader page](https://fanripper.com/justforfans-downloader)** &nbsp;·&nbsp; 💬 **[Telegram](https://t.me/fanripper)**
 
@@ -72,7 +72,7 @@ Works on Chrome, Brave and Edge. It is not in the Chrome Web Store because store
 
 ## Which plan
 
-JustForFans is on **Max** ($15/month) or **Lifetime** ($99 once), alongside privacy.com.br. The Free, Basic, Pro and Unlimited plans cover OnlyFans and Fansly. Paid plans are bought inside the extension in crypto or Telegram Stars — no card, no KYC.
+JustForFans is on **Max** ($15/month) or **Lifetime** ($99 once), alongside privacy.com.br and Fanfix. The Free, Basic, Pro and Unlimited plans cover OnlyFans and Fansly. Paid plans are bought inside the extension: crypto (USDT, BTC, ETH, USDC), card, Apple Pay or Google Pay through Telegram Stars, or a gift card — no KYC, nothing renews by itself.
 
 ## Is it safe?
 
@@ -85,7 +85,7 @@ No tool that talks to a site it does not control can promise you an outcome, and
 
 ## Links
 
-- 🌐 [fanripper.com](https://fanripper.com) — all four supported sites
+- 🌐 [fanripper.com](https://fanripper.com) — all five supported sites
 - 📊 [Side-by-side capability comparison](https://fanripper.com/supported-sites)
 - 📖 [JustForFans guide](https://fanripper.com/blog/justforfans-video-downloader-chrome)
 - 💬 [Telegram](https://t.me/fanripper)
