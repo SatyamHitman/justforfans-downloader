@@ -79,7 +79,7 @@ JustForFans is on **Max** ($15/month) or **Lifetime** ($99 once), alongside priv
 - Runs entirely in your browser. Media and your login session never reach our servers.
 - **Never asks for your JustForFans password** — it works through the session you are already signed into. Anything asking you to type your platform password into it is a credential grab, not a downloader.
 - Paces requests like ordinary browsing rather than hammering the site.
-- The shipped build is flagged by **0 of 63** engines on [VirusTotal](https://www.virustotal.com/gui/file/dd8e3884eebc4052beaf212a09dc09cb324d5b74ac10c71199c3703543b97266/detection).
+- The shipped build is flagged by **0 of 64** engines on [VirusTotal](https://www.virustotal.com/gui/file/8127518bc0400c66018778b113ac026bfce34d3c15ad45e89def1108d3136fd9/detection).
 
 No tool that talks to a site it does not control can promise you an outcome, and anything claiming "100% undetectable" is bluffing. Local processing, no password, and human-paced requests are the honest version.
 
